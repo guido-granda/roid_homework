@@ -1,2 +1,3 @@
 # roid_homework
-codes for roid homework on numerical dynamics
+Codes for roid homework on numerical dynamics.
+
